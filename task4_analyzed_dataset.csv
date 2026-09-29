@@ -1,0 +1,501 @@
+Customer_ID,Age,Gender,Location,Product_Category,Purchase_Frequency,Number_of_Orders,Average_Order_Value,Total_Spend,Days_Since_Last_Purchase,Age_Group,Spend_Band,Customer_Value
+CUST0001,56,Female,Mumbai,Electronics,High,18,6216,111888,99,46-60,Very High,High Value
+CUST0002,46,Male,Chennai,Home & Kitchen,Low,3,2826,8478,143,46-60,Low,Low Value
+CUST0003,32,Female,Mumbai,Clothing,Medium,8,3172,25376,85,26-35,Medium,Medium Value
+CUST0004,60,Male,Pune,Beauty,Medium,5,844,4220,65,46-60,Low,Low Value
+CUST0005,25,Male,Chennai,Clothing,Medium,5,3357,16785,132,18-25,Medium,Medium Value
+CUST0006,38,Female,Delhi,Electronics,Low,3,7596,22788,11,36-45,Medium,Medium Value
+CUST0007,56,Male,Chennai,Home & Kitchen,Medium,8,5559,44472,108,46-60,High,High Value
+CUST0008,36,Male,Chennai,Beauty,High,17,520,8840,26,36-45,Low,Low Value
+CUST0009,40,Male,Bengaluru,Electronics,Medium,7,3417,23919,165,36-45,Medium,Medium Value
+CUST0010,28,Male,Pune,Electronics,Low,2,4374,8748,151,26-35,Low,Low Value
+CUST0011,28,Male,Delhi,Electronics,High,12,7428,89136,85,26-35,Very High,High Value
+CUST0012,41,Female,Chennai,Beauty,Low,3,1372,4116,168,36-45,Low,Low Value
+CUST0013,53,Male,Mumbai,Home & Kitchen,Medium,4,3685,14740,151,46-60,Medium,Low Value
+CUST0014,57,Female,Pune,Clothing,Low,3,3218,9654,123,46-60,Low,Low Value
+CUST0015,41,Female,Mumbai,Beauty,High,13,1050,13650,144,36-45,Medium,Low Value
+CUST0016,20,Male,Bengaluru,Beauty,Medium,5,786,3930,68,18-25,Low,Low Value
+CUST0017,39,Male,Pune,Home & Kitchen,Medium,6,5798,34788,104,36-45,High,Medium Value
+CUST0018,19,Male,Bengaluru,Sports,Low,1,1312,1312,80,18-25,Low,Low Value
+CUST0019,41,Female,Mumbai,Electronics,Medium,4,4977,19908,159,36-45,Medium,Medium Value
+CUST0020,47,Male,Pune,Electronics,High,13,7249,94237,53,46-60,Very High,High Value
+CUST0021,55,Female,Pune,Clothing,High,19,2205,41895,106,46-60,High,High Value
+CUST0022,19,Male,Hyderabad,Electronics,Medium,5,5975,29875,153,18-25,Medium,Medium Value
+CUST0023,38,Female,Hyderabad,Home & Kitchen,Medium,7,2760,19320,44,36-45,Medium,Medium Value
+CUST0024,50,Male,Delhi,Sports,Medium,5,4235,21175,140,46-60,Medium,Medium Value
+CUST0025,29,Male,Mumbai,Electronics,High,10,6500,65000,90,26-35,Very High,High Value
+CUST0026,39,Female,Mumbai,Electronics,Medium,5,2874,14370,101,36-45,Medium,Low Value
+CUST0027,42,Female,Hyderabad,Clothing,Medium,4,878,3512,97,36-45,Low,Low Value
+CUST0028,44,Male,Chennai,Sports,Medium,5,1347,6735,9,36-45,Low,Low Value
+CUST0029,59,Female,Chennai,Clothing,Medium,6,2966,17796,12,46-60,Medium,Medium Value
+CUST0030,45,Male,Chennai,Home & Kitchen,Low,2,3511,7022,69,36-45,Low,Low Value
+CUST0031,33,Female,Bengaluru,Electronics,Medium,6,3641,21846,28,26-35,Medium,Medium Value
+CUST0032,32,Female,Delhi,Electronics,Medium,6,7127,42762,56,26-35,High,High Value
+CUST0033,20,Male,Bengaluru,Sports,High,10,4485,44850,99,18-25,High,High Value
+CUST0034,54,Male,Delhi,Sports,Low,1,3547,3547,110,46-60,Low,Low Value
+CUST0035,24,Male,Delhi,Electronics,Medium,7,5755,40285,77,18-25,High,High Value
+CUST0036,38,Male,Pune,Sports,Medium,7,1684,11788,103,36-45,Medium,Low Value
+CUST0037,26,Female,Mumbai,Home & Kitchen,Medium,6,4004,24024,106,26-35,Medium,Medium Value
+CUST0038,56,Male,Bengaluru,Sports,Low,2,1621,3242,109,46-60,Low,Low Value
+CUST0039,35,Male,Bengaluru,Clothing,Medium,4,2427,9708,112,26-35,Low,Low Value
+CUST0040,21,Female,Chennai,Home & Kitchen,Medium,4,3219,12876,58,18-25,Medium,Low Value
+CUST0041,42,Female,Hyderabad,Clothing,Medium,7,1234,8638,78,36-45,Low,Low Value
+CUST0042,31,Male,Bengaluru,Home & Kitchen,Medium,7,3111,21777,75,26-35,Medium,Medium Value
+CUST0043,26,Male,Bengaluru,Electronics,Medium,4,5289,21156,42,26-35,Medium,Medium Value
+CUST0044,43,Male,Hyderabad,Electronics,High,16,8453,135248,166,36-45,Very High,High Value
+CUST0045,19,Male,Bengaluru,Clothing,Low,3,1704,5112,68,18-25,Low,Low Value
+CUST0046,37,Female,Chennai,Beauty,High,16,1287,20592,33,36-45,Medium,Medium Value
+CUST0047,45,Male,Hyderabad,Electronics,Medium,4,5423,21692,71,36-45,Medium,Medium Value
+CUST0048,24,Female,Bengaluru,Home & Kitchen,Low,1,5404,5404,56,18-25,Low,Low Value
+CUST0049,25,Male,Bengaluru,Sports,Low,2,1243,2486,105,18-25,Low,Low Value
+CUST0050,52,Female,Pune,Electronics,Medium,7,5721,40047,101,46-60,High,High Value
+CUST0051,31,Female,Mumbai,Home & Kitchen,High,14,2732,38248,51,26-35,High,Medium Value
+CUST0052,34,Female,Mumbai,Clothing,Medium,4,3406,13624,74,26-35,Medium,Low Value
+CUST0053,53,Male,Chennai,Sports,High,17,4158,70686,171,46-60,Very High,High Value
+CUST0054,57,Male,Pune,Electronics,Medium,4,7235,28940,121,46-60,Medium,Medium Value
+CUST0055,21,Male,Pune,Beauty,Medium,5,2144,10720,143,18-25,Medium,Low Value
+CUST0056,19,Female,Chennai,Beauty,Low,1,1853,1853,166,18-25,Low,Low Value
+CUST0057,23,Female,Mumbai,Sports,Medium,5,4056,20280,143,18-25,Medium,Medium Value
+CUST0058,59,Female,Bengaluru,Home & Kitchen,Medium,8,4149,33192,5,46-60,High,Medium Value
+CUST0059,21,Female,Chennai,Home & Kitchen,Low,2,2156,4312,83,18-25,Low,Low Value
+CUST0060,46,Female,Delhi,Home & Kitchen,Low,2,1665,3330,51,46-60,Low,Low Value
+CUST0061,35,Male,Delhi,Sports,Medium,8,2464,19712,10,26-35,Medium,Medium Value
+CUST0062,43,Female,Pune,Home & Kitchen,Medium,5,4321,21605,140,36-45,Medium,Medium Value
+CUST0063,51,Male,Bengaluru,Electronics,High,16,3454,55264,4,46-60,High,High Value
+CUST0064,27,Male,Delhi,Sports,High,19,1380,26220,95,26-35,Medium,Medium Value
+CUST0065,53,Male,Bengaluru,Home & Kitchen,Medium,6,1571,9426,146,46-60,Low,Low Value
+CUST0066,31,Male,Delhi,Home & Kitchen,Medium,8,5016,40128,80,26-35,High,High Value
+CUST0067,48,Male,Bengaluru,Electronics,Medium,7,4702,32914,36,46-60,High,Medium Value
+CUST0068,32,Female,Bengaluru,Home & Kitchen,High,19,1768,33592,25,26-35,High,Medium Value
+CUST0069,25,Male,Bengaluru,Clothing,Low,1,2792,2792,98,18-25,Low,Low Value
+CUST0070,31,Female,Hyderabad,Home & Kitchen,Medium,7,3962,27734,164,26-35,Medium,Medium Value
+CUST0071,40,Male,Chennai,Electronics,High,14,8130,113820,101,36-45,Very High,High Value
+CUST0072,57,Male,Hyderabad,Home & Kitchen,Medium,4,2515,10060,9,46-60,Medium,Low Value
+CUST0073,38,Male,Pune,Sports,Medium,6,2211,13266,61,36-45,Medium,Low Value
+CUST0074,33,Male,Mumbai,Electronics,Medium,8,4759,38072,53,26-35,High,Medium Value
+CUST0075,35,Female,Mumbai,Sports,Low,1,2539,2539,146,26-35,Low,Low Value
+CUST0076,41,Male,Chennai,Clothing,Medium,6,726,4356,171,36-45,Low,Low Value
+CUST0077,43,Female,Mumbai,Sports,Medium,7,1643,11501,163,36-45,Medium,Low Value
+CUST0078,42,Male,Pune,Beauty,Low,2,1791,3582,63,36-45,Low,Low Value
+CUST0079,58,Female,Bengaluru,Home & Kitchen,Low,1,5103,5103,121,46-60,Low,Low Value
+CUST0080,46,Female,Pune,Beauty,High,10,1597,15970,105,46-60,Medium,Medium Value
+CUST0081,32,Female,Bengaluru,Sports,Low,3,2283,6849,4,26-35,Low,Low Value
+CUST0082,18,Male,Pune,Clothing,Medium,7,884,6188,93,18-25,Low,Low Value
+CUST0083,42,Male,Delhi,Clothing,Low,3,2290,6870,169,36-45,Low,Low Value
+CUST0084,24,Male,Pune,Home & Kitchen,High,18,2985,53730,173,18-25,High,High Value
+CUST0085,26,Female,Bengaluru,Beauty,Low,2,1653,3306,178,26-35,Low,Low Value
+CUST0086,41,Male,Delhi,Beauty,Medium,7,2281,15967,28,36-45,Medium,Medium Value
+CUST0087,18,Male,Pune,Beauty,High,14,2347,32858,170,18-25,High,Medium Value
+CUST0088,25,Female,Delhi,Clothing,High,15,2057,30855,80,18-25,High,Medium Value
+CUST0089,41,Male,Hyderabad,Beauty,Low,1,1290,1290,76,36-45,Low,Low Value
+CUST0090,28,Female,Hyderabad,Electronics,High,14,3424,47936,116,26-35,High,High Value
+CUST0091,34,Male,Delhi,Home & Kitchen,Medium,6,3438,20628,69,26-35,Medium,Medium Value
+CUST0092,25,Male,Hyderabad,Electronics,Medium,5,7089,35445,98,18-25,High,Medium Value
+CUST0093,52,Female,Hyderabad,Clothing,Low,1,1245,1245,1,46-60,Low,Low Value
+CUST0094,52,Male,Pune,Clothing,Low,3,2332,6996,167,46-60,Low,Low Value
+CUST0095,50,Female,Bengaluru,Clothing,Medium,7,2916,20412,96,46-60,Medium,Medium Value
+CUST0096,22,Male,Mumbai,Beauty,Medium,6,2192,13152,17,18-25,Medium,Low Value
+CUST0097,59,Male,Pune,Clothing,Medium,8,3330,26640,112,46-60,Medium,Medium Value
+CUST0098,56,Female,Pune,Clothing,Medium,6,3262,19572,91,46-60,Medium,Medium Value
+CUST0099,58,Female,Delhi,Electronics,High,17,3262,55454,88,46-60,High,High Value
+CUST0100,45,Female,Hyderabad,Clothing,Low,3,3034,9102,163,36-45,Low,Low Value
+CUST0101,24,Male,Mumbai,Electronics,Medium,4,6645,26580,174,18-25,Medium,Medium Value
+CUST0102,26,Female,Bengaluru,Electronics,Low,3,5275,15825,170,26-35,Medium,Medium Value
+CUST0103,25,Male,Delhi,Home & Kitchen,High,13,2651,34463,167,18-25,High,Medium Value
+CUST0104,29,Male,Mumbai,Home & Kitchen,Medium,8,3945,31560,90,26-35,High,Medium Value
+CUST0105,51,Female,Hyderabad,Home & Kitchen,High,9,3456,31104,49,46-60,High,Medium Value
+CUST0106,50,Male,Bengaluru,Clothing,Low,1,2459,2459,38,46-60,Low,Low Value
+CUST0107,40,Female,Pune,Clothing,Low,1,3265,3265,151,36-45,Low,Low Value
+CUST0108,41,Male,Pune,Sports,Low,3,2552,7656,150,36-45,Low,Low Value
+CUST0109,54,Male,Hyderabad,Home & Kitchen,Low,2,2807,5614,132,46-60,Low,Low Value
+CUST0110,52,Male,Delhi,Clothing,Low,2,1369,2738,177,46-60,Low,Low Value
+CUST0111,57,Female,Mumbai,Electronics,High,11,7915,87065,59,46-60,Very High,High Value
+CUST0112,39,Female,Chennai,Clothing,Low,2,1616,3232,68,36-45,Low,Low Value
+CUST0113,44,Female,Hyderabad,Clothing,Low,3,2873,8619,130,36-45,Low,Low Value
+CUST0114,52,Female,Bengaluru,Clothing,High,11,2821,31031,49,46-60,High,Medium Value
+CUST0115,18,Female,Pune,Home & Kitchen,Medium,5,3706,18530,126,18-25,Medium,Medium Value
+CUST0116,52,Female,Chennai,Home & Kitchen,High,13,5058,65754,159,46-60,Very High,High Value
+CUST0117,54,Male,Pune,Home & Kitchen,Low,1,3080,3080,111,46-60,Low,Low Value
+CUST0118,31,Male,Hyderabad,Beauty,Medium,4,2230,8920,168,26-35,Low,Low Value
+CUST0119,20,Male,Hyderabad,Beauty,Low,1,1197,1197,48,18-25,Low,Low Value
+CUST0120,18,Female,Delhi,Beauty,Low,2,1622,3244,51,18-25,Low,Low Value
+CUST0121,22,Female,Pune,Sports,High,19,4161,79059,43,18-25,Very High,High Value
+CUST0122,43,Male,Chennai,Electronics,Low,3,3583,10749,98,36-45,Medium,Low Value
+CUST0123,31,Female,Bengaluru,Electronics,Medium,7,3149,22043,177,26-35,Medium,Medium Value
+CUST0124,56,Female,Bengaluru,Electronics,Medium,7,6634,46438,124,46-60,High,High Value
+CUST0125,44,Male,Mumbai,Home & Kitchen,Medium,5,4884,24420,80,36-45,Medium,Medium Value
+CUST0126,26,Female,Chennai,Sports,High,13,1256,16328,111,26-35,Medium,Medium Value
+CUST0127,32,Female,Pune,Electronics,Low,2,3536,7072,143,26-35,Low,Low Value
+CUST0128,32,Male,Bengaluru,Sports,Medium,5,1441,7205,27,26-35,Low,Low Value
+CUST0129,43,Female,Hyderabad,Electronics,High,16,4648,74368,158,36-45,Very High,High Value
+CUST0130,59,Male,Mumbai,Sports,Medium,5,3646,18230,164,46-60,Medium,Medium Value
+CUST0131,30,Female,Pune,Clothing,High,15,1338,20070,113,26-35,Medium,Medium Value
+CUST0132,49,Female,Chennai,Electronics,Low,2,6087,12174,86,46-60,Medium,Low Value
+CUST0133,56,Female,Chennai,Clothing,Medium,6,2760,16560,114,46-60,Medium,Medium Value
+CUST0134,49,Male,Delhi,Clothing,Low,3,3191,9573,124,46-60,Low,Low Value
+CUST0135,21,Female,Delhi,Clothing,Medium,8,3194,25552,49,18-25,Medium,Medium Value
+CUST0136,47,Female,Mumbai,Clothing,High,9,1685,15165,76,46-60,Medium,Medium Value
+CUST0137,54,Male,Bengaluru,Beauty,Low,1,715,715,55,46-60,Low,Low Value
+CUST0138,40,Female,Chennai,Home & Kitchen,Medium,8,3475,27800,56,36-45,Medium,Medium Value
+CUST0139,56,Male,Chennai,Clothing,Low,2,2821,5642,95,46-60,Low,Low Value
+CUST0140,32,Female,Pune,Home & Kitchen,Medium,5,4041,20205,44,26-35,Medium,Medium Value
+CUST0141,60,Male,Pune,Beauty,Medium,7,716,5012,159,46-60,Low,Low Value
+CUST0142,46,Male,Delhi,Clothing,High,13,2923,37999,87,46-60,High,Medium Value
+CUST0143,53,Male,Chennai,Clothing,Medium,6,1126,6756,84,46-60,Low,Low Value
+CUST0144,30,Female,Pune,Electronics,Medium,5,5873,29365,151,26-35,Medium,Medium Value
+CUST0145,49,Male,Chennai,Electronics,Low,2,4643,9286,156,46-60,Low,Low Value
+CUST0146,24,Female,Mumbai,Home & Kitchen,Low,3,4717,14151,16,18-25,Medium,Low Value
+CUST0147,39,Male,Delhi,Electronics,Low,3,8835,26505,165,36-45,Medium,Medium Value
+CUST0148,45,Male,Bengaluru,Home & Kitchen,Low,2,2947,5894,149,36-45,Low,Low Value
+CUST0149,19,Male,Pune,Beauty,High,17,1369,23273,145,18-25,Medium,Medium Value
+CUST0150,59,Female,Hyderabad,Electronics,Medium,6,3947,23682,37,46-60,Medium,Medium Value
+CUST0151,23,Male,Mumbai,Home & Kitchen,Medium,7,2725,19075,77,18-25,Medium,Medium Value
+CUST0152,45,Female,Hyderabad,Clothing,Low,2,1524,3048,147,36-45,Low,Low Value
+CUST0153,45,Female,Hyderabad,Sports,High,15,2782,41730,158,36-45,High,High Value
+CUST0154,37,Female,Mumbai,Clothing,Medium,6,1588,9528,45,36-45,Low,Low Value
+CUST0155,47,Male,Bengaluru,Beauty,Low,3,1667,5001,146,46-60,Low,Low Value
+CUST0156,28,Male,Hyderabad,Home & Kitchen,Medium,4,4677,18708,62,26-35,Medium,Medium Value
+CUST0157,45,Female,Delhi,Electronics,Medium,6,8065,48390,164,36-45,High,High Value
+CUST0158,42,Male,Chennai,Home & Kitchen,Low,3,2975,8925,100,36-45,Low,Low Value
+CUST0159,56,Female,Delhi,Sports,Medium,4,1270,5080,52,46-60,Low,Low Value
+CUST0160,50,Male,Chennai,Home & Kitchen,Medium,5,2308,11540,19,46-60,Medium,Low Value
+CUST0161,18,Female,Delhi,Beauty,Low,3,2245,6735,109,18-25,Low,Low Value
+CUST0162,44,Female,Delhi,Sports,High,15,2510,37650,44,36-45,High,Medium Value
+CUST0163,30,Female,Pune,Electronics,High,12,3490,41880,7,26-35,High,High Value
+CUST0164,58,Male,Delhi,Electronics,Medium,7,7420,51940,172,46-60,High,High Value
+CUST0165,20,Female,Bengaluru,Home & Kitchen,Medium,8,4862,38896,117,18-25,High,Medium Value
+CUST0166,56,Male,Bengaluru,Clothing,Medium,6,1624,9744,68,46-60,Low,Low Value
+CUST0167,23,Male,Chennai,Beauty,Medium,5,1796,8980,34,18-25,Low,Low Value
+CUST0168,25,Female,Hyderabad,Sports,Medium,7,2771,19397,69,18-25,Medium,Medium Value
+CUST0169,44,Female,Hyderabad,Clothing,Low,3,1612,4836,55,36-45,Low,Low Value
+CUST0170,26,Female,Bengaluru,Electronics,Medium,5,3276,16380,10,26-35,Medium,Medium Value
+CUST0171,54,Female,Bengaluru,Beauty,High,14,1530,21420,42,46-60,Medium,Medium Value
+CUST0172,50,Male,Bengaluru,Clothing,Medium,5,1195,5975,41,46-60,Low,Low Value
+CUST0173,59,Male,Mumbai,Beauty,Low,3,2045,6135,122,46-60,Low,Low Value
+CUST0174,41,Female,Hyderabad,Clothing,High,14,1256,17584,138,36-45,Medium,Medium Value
+CUST0175,32,Male,Mumbai,Home & Kitchen,Low,1,4841,4841,10,26-35,Low,Low Value
+CUST0176,49,Male,Delhi,Electronics,Low,1,7567,7567,102,46-60,Low,Low Value
+CUST0177,49,Male,Pune,Home & Kitchen,Low,1,2340,2340,128,46-60,Low,Low Value
+CUST0178,41,Male,Mumbai,Clothing,Medium,6,856,5136,179,36-45,Low,Low Value
+CUST0179,58,Male,Delhi,Home & Kitchen,High,18,2606,46908,149,46-60,High,High Value
+CUST0180,29,Male,Chennai,Electronics,Medium,4,3794,15176,136,26-35,Medium,Medium Value
+CUST0181,56,Male,Mumbai,Beauty,Low,3,633,1899,92,46-60,Low,Low Value
+CUST0182,19,Male,Hyderabad,Sports,High,18,3069,55242,113,18-25,High,High Value
+CUST0183,20,Female,Chennai,Electronics,High,20,7274,145480,78,18-25,Very High,High Value
+CUST0184,54,Male,Pune,Electronics,High,11,5396,59356,85,46-60,High,High Value
+CUST0185,34,Male,Bengaluru,Electronics,Low,1,5603,5603,30,26-35,Low,Low Value
+CUST0186,19,Female,Pune,Home & Kitchen,Medium,5,3915,19575,49,18-25,Medium,Medium Value
+CUST0187,19,Male,Delhi,Home & Kitchen,High,17,4596,78132,9,18-25,Very High,High Value
+CUST0188,45,Female,Mumbai,Home & Kitchen,High,18,3109,55962,145,36-45,High,High Value
+CUST0189,40,Female,Delhi,Electronics,Low,1,7701,7701,69,36-45,Low,Low Value
+CUST0190,54,Male,Pune,Clothing,Low,3,3285,9855,58,46-60,Low,Low Value
+CUST0191,49,Male,Delhi,Home & Kitchen,Medium,8,2516,20128,62,46-60,Medium,Medium Value
+CUST0192,50,Female,Mumbai,Home & Kitchen,High,15,5065,75975,52,46-60,Very High,High Value
+CUST0193,18,Female,Hyderabad,Sports,Medium,6,2786,16716,40,18-25,Medium,Medium Value
+CUST0194,36,Male,Mumbai,Electronics,Medium,8,6415,51320,166,36-45,High,High Value
+CUST0195,19,Female,Bengaluru,Beauty,Low,2,1807,3614,171,18-25,Low,Low Value
+CUST0196,43,Male,Bengaluru,Clothing,Medium,7,2203,15421,63,36-45,Medium,Medium Value
+CUST0197,49,Female,Bengaluru,Clothing,High,16,2416,38656,147,46-60,High,Medium Value
+CUST0198,23,Male,Bengaluru,Beauty,Medium,6,1689,10134,50,18-25,Medium,Low Value
+CUST0199,49,Female,Bengaluru,Beauty,High,19,1712,32528,161,46-60,High,Medium Value
+CUST0200,21,Female,Hyderabad,Sports,High,17,1178,20026,141,18-25,Medium,Medium Value
+CUST0201,28,Female,Bengaluru,Electronics,Low,2,8058,16116,78,26-35,Medium,Medium Value
+CUST0202,34,Male,Mumbai,Electronics,Medium,5,4330,21650,97,26-35,Medium,Medium Value
+CUST0203,55,Male,Pune,Beauty,Low,2,1187,2374,43,46-60,Low,Low Value
+CUST0204,41,Male,Delhi,Home & Kitchen,High,11,5292,58212,177,36-45,High,High Value
+CUST0205,22,Male,Hyderabad,Clothing,Medium,7,1342,9394,36,18-25,Low,Low Value
+CUST0206,51,Male,Bengaluru,Electronics,Medium,5,8867,44335,122,46-60,High,High Value
+CUST0207,23,Female,Bengaluru,Electronics,High,18,5377,96786,108,18-25,Very High,High Value
+CUST0208,39,Male,Bengaluru,Sports,Medium,5,3244,16220,10,36-45,Medium,Medium Value
+CUST0209,28,Male,Bengaluru,Electronics,High,10,4432,44320,95,26-35,High,High Value
+CUST0210,33,Female,Mumbai,Clothing,Medium,8,2498,19984,6,26-35,Medium,Medium Value
+CUST0211,50,Female,Bengaluru,Electronics,Low,3,3348,10044,57,46-60,Medium,Low Value
+CUST0212,26,Female,Bengaluru,Clothing,Medium,4,3049,12196,129,26-35,Medium,Low Value
+CUST0213,23,Female,Bengaluru,Electronics,High,9,3752,33768,71,18-25,High,Medium Value
+CUST0214,33,Male,Delhi,Home & Kitchen,Medium,7,1930,13510,21,26-35,Medium,Low Value
+CUST0215,46,Male,Bengaluru,Electronics,High,9,7574,68166,92,46-60,Very High,High Value
+CUST0216,20,Female,Mumbai,Beauty,High,13,1582,20566,127,18-25,Medium,Medium Value
+CUST0217,37,Female,Delhi,Electronics,Low,3,7612,22836,80,36-45,Medium,Medium Value
+CUST0218,53,Male,Hyderabad,Home & Kitchen,High,16,2856,45696,56,46-60,High,High Value
+CUST0219,36,Female,Bengaluru,Sports,Low,1,2362,2362,116,36-45,Low,Low Value
+CUST0220,43,Male,Chennai,Home & Kitchen,Low,1,3402,3402,148,36-45,Low,Low Value
+CUST0221,20,Male,Hyderabad,Home & Kitchen,Low,1,5513,5513,25,18-25,Low,Low Value
+CUST0222,36,Male,Bengaluru,Clothing,High,13,1186,15418,156,36-45,Medium,Medium Value
+CUST0223,37,Female,Pune,Clothing,Medium,6,1559,9354,5,36-45,Low,Low Value
+CUST0224,49,Female,Pune,Home & Kitchen,Low,1,3289,3289,120,46-60,Low,Low Value
+CUST0225,24,Male,Bengaluru,Sports,Medium,7,2419,16933,21,18-25,Medium,Medium Value
+CUST0226,58,Female,Mumbai,Home & Kitchen,Medium,5,1516,7580,18,46-60,Low,Low Value
+CUST0227,50,Male,Chennai,Home & Kitchen,Low,1,5848,5848,175,46-60,Low,Low Value
+CUST0228,57,Male,Chennai,Beauty,High,9,886,7974,57,46-60,Low,Low Value
+CUST0229,56,Female,Bengaluru,Clothing,High,15,789,11835,93,46-60,Medium,Low Value
+CUST0230,35,Female,Bengaluru,Electronics,Medium,6,5762,34572,19,26-35,High,Medium Value
+CUST0231,57,Female,Mumbai,Home & Kitchen,High,9,4528,40752,128,46-60,High,High Value
+CUST0232,18,Female,Delhi,Sports,Medium,4,1903,7612,97,18-25,Low,Low Value
+CUST0233,28,Female,Hyderabad,Electronics,High,9,2719,24471,131,26-35,Medium,Medium Value
+CUST0234,45,Female,Mumbai,Beauty,Medium,8,500,4000,170,36-45,Low,Low Value
+CUST0235,42,Male,Delhi,Electronics,Medium,7,4257,29799,21,36-45,Medium,Medium Value
+CUST0236,40,Male,Chennai,Home & Kitchen,Low,2,3384,6768,40,36-45,Low,Low Value
+CUST0237,48,Male,Bengaluru,Electronics,High,11,4166,45826,67,46-60,High,High Value
+CUST0238,47,Male,Mumbai,Clothing,Medium,8,3206,25648,153,46-60,Medium,Medium Value
+CUST0239,59,Female,Hyderabad,Beauty,Low,3,671,2013,127,46-60,Low,Low Value
+CUST0240,52,Male,Pune,Clothing,Low,2,1097,2194,55,46-60,Low,Low Value
+CUST0241,24,Male,Delhi,Home & Kitchen,Medium,8,2594,20752,180,18-25,Medium,Medium Value
+CUST0242,33,Male,Delhi,Beauty,Medium,4,1646,6584,172,26-35,Low,Low Value
+CUST0243,43,Female,Bengaluru,Sports,Medium,7,4087,28609,109,36-45,Medium,Medium Value
+CUST0244,19,Male,Delhi,Electronics,High,20,8449,168980,98,18-25,Very High,High Value
+CUST0245,18,Female,Delhi,Clothing,Low,1,1255,1255,112,18-25,Low,Low Value
+CUST0246,29,Male,Mumbai,Electronics,Medium,5,4553,22765,115,26-35,Medium,Medium Value
+CUST0247,22,Male,Mumbai,Sports,Low,2,3381,6762,117,18-25,Low,Low Value
+CUST0248,54,Female,Mumbai,Sports,High,9,4404,39636,87,46-60,High,Medium Value
+CUST0249,49,Female,Bengaluru,Home & Kitchen,High,17,4592,78064,81,46-60,Very High,High Value
+CUST0250,26,Male,Mumbai,Beauty,Medium,6,664,3984,66,26-35,Low,Low Value
+CUST0251,58,Female,Bengaluru,Home & Kitchen,Medium,6,3574,21444,19,46-60,Medium,Medium Value
+CUST0252,52,Female,Mumbai,Home & Kitchen,Medium,7,1784,12488,135,46-60,Medium,Low Value
+CUST0253,36,Male,Bengaluru,Electronics,Medium,7,3198,22386,118,36-45,Medium,Medium Value
+CUST0254,33,Female,Pune,Beauty,High,11,2262,24882,42,26-35,Medium,Medium Value
+CUST0255,20,Female,Hyderabad,Electronics,Medium,6,3326,19956,42,18-25,Medium,Medium Value
+CUST0256,37,Female,Hyderabad,Beauty,Medium,7,1912,13384,59,36-45,Medium,Low Value
+CUST0257,41,Female,Chennai,Beauty,Medium,4,2083,8332,20,36-45,Low,Low Value
+CUST0258,50,Female,Delhi,Beauty,High,11,723,7953,73,46-60,Low,Low Value
+CUST0259,41,Female,Bengaluru,Electronics,Medium,8,6408,51264,17,36-45,High,High Value
+CUST0260,28,Female,Delhi,Clothing,Low,2,2103,4206,27,26-35,Low,Low Value
+CUST0261,25,Female,Hyderabad,Clothing,Medium,5,2877,14385,175,18-25,Medium,Low Value
+CUST0262,53,Female,Chennai,Clothing,High,11,3343,36773,2,46-60,High,Medium Value
+CUST0263,55,Female,Delhi,Electronics,Low,3,8556,25668,63,46-60,Medium,Medium Value
+CUST0264,57,Female,Bengaluru,Sports,Low,3,2231,6693,62,46-60,Low,Low Value
+CUST0265,37,Male,Mumbai,Home & Kitchen,Low,2,3409,6818,100,36-45,Low,Low Value
+CUST0266,52,Female,Mumbai,Clothing,Medium,4,1598,6392,19,46-60,Low,Low Value
+CUST0267,42,Female,Hyderabad,Clothing,Medium,6,1906,11436,17,36-45,Medium,Low Value
+CUST0268,52,Male,Hyderabad,Clothing,Medium,7,2235,15645,69,46-60,Medium,Medium Value
+CUST0269,42,Female,Mumbai,Home & Kitchen,Medium,8,2431,19448,167,36-45,Medium,Medium Value
+CUST0270,46,Male,Pune,Home & Kitchen,Medium,8,4906,39248,117,46-60,High,Medium Value
+CUST0271,35,Male,Hyderabad,Sports,Medium,4,4416,17664,81,26-35,Medium,Medium Value
+CUST0272,35,Female,Mumbai,Home & Kitchen,High,14,2532,35448,39,26-35,High,Medium Value
+CUST0273,19,Male,Bengaluru,Sports,Medium,5,2689,13445,36,18-25,Medium,Low Value
+CUST0274,52,Female,Bengaluru,Sports,High,17,2517,42789,168,46-60,High,High Value
+CUST0275,33,Female,Mumbai,Electronics,Medium,6,2775,16650,173,26-35,Medium,Medium Value
+CUST0276,58,Male,Bengaluru,Sports,Low,1,3984,3984,132,46-60,Low,Low Value
+CUST0277,53,Male,Bengaluru,Electronics,Medium,4,5264,21056,153,46-60,Medium,Medium Value
+CUST0278,50,Male,Mumbai,Beauty,Medium,4,1573,6292,158,46-60,Low,Low Value
+CUST0279,21,Female,Bengaluru,Clothing,Medium,6,822,4932,29,18-25,Low,Low Value
+CUST0280,50,Female,Pune,Sports,Low,1,1133,1133,51,46-60,Low,Low Value
+CUST0281,31,Female,Bengaluru,Sports,Low,2,3030,6060,152,26-35,Low,Low Value
+CUST0282,38,Male,Delhi,Beauty,High,10,1858,18580,14,36-45,Medium,Medium Value
+CUST0283,37,Female,Delhi,Beauty,Low,1,1602,1602,69,36-45,Low,Low Value
+CUST0284,25,Male,Pune,Clothing,High,12,2497,29964,146,18-25,Medium,Medium Value
+CUST0285,24,Female,Bengaluru,Electronics,Low,3,5629,16887,170,18-25,Medium,Medium Value
+CUST0286,20,Male,Mumbai,Clothing,Medium,6,3312,19872,57,18-25,Medium,Medium Value
+CUST0287,34,Female,Pune,Electronics,Medium,8,8629,69032,12,26-35,Very High,High Value
+CUST0288,50,Male,Chennai,Beauty,Medium,8,1303,10424,17,46-60,Medium,Low Value
+CUST0289,29,Female,Chennai,Clothing,Medium,4,1515,6060,30,26-35,Low,Low Value
+CUST0290,39,Male,Mumbai,Sports,Low,2,3705,7410,88,36-45,Low,Low Value
+CUST0291,39,Female,Bengaluru,Home & Kitchen,Low,3,5979,17937,99,36-45,Medium,Medium Value
+CUST0292,47,Female,Hyderabad,Beauty,Medium,6,886,5316,23,46-60,Low,Low Value
+CUST0293,55,Male,Pune,Electronics,Medium,7,2814,19698,129,46-60,Medium,Medium Value
+CUST0294,55,Female,Delhi,Sports,High,12,4163,49956,79,46-60,High,High Value
+CUST0295,25,Female,Hyderabad,Sports,High,19,3226,61294,32,18-25,Very High,High Value
+CUST0296,44,Male,Mumbai,Clothing,High,20,1077,21540,9,36-45,Medium,Medium Value
+CUST0297,44,Male,Chennai,Home & Kitchen,High,12,1787,21444,15,36-45,Medium,Medium Value
+CUST0298,51,Female,Bengaluru,Beauty,Medium,4,1483,5932,156,46-60,Low,Low Value
+CUST0299,38,Male,Mumbai,Electronics,Low,2,2655,5310,152,36-45,Low,Low Value
+CUST0300,47,Female,Delhi,Home & Kitchen,High,19,2661,50559,163,46-60,High,High Value
+CUST0301,50,Male,Delhi,Clothing,Medium,4,2110,8440,27,46-60,Low,Low Value
+CUST0302,45,Female,Mumbai,Electronics,Medium,4,5843,23372,109,36-45,Medium,Medium Value
+CUST0303,50,Male,Bengaluru,Clothing,Low,1,2689,2689,76,46-60,Low,Low Value
+CUST0304,22,Female,Hyderabad,Electronics,Medium,6,5573,33438,148,18-25,High,Medium Value
+CUST0305,36,Female,Mumbai,Electronics,Medium,4,5305,21220,65,36-45,Medium,Medium Value
+CUST0306,21,Female,Hyderabad,Electronics,High,20,3221,64420,177,18-25,Very High,High Value
+CUST0307,52,Female,Bengaluru,Sports,Medium,4,1813,7252,109,46-60,Low,Low Value
+CUST0308,34,Male,Delhi,Home & Kitchen,Medium,8,3676,29408,129,26-35,Medium,Medium Value
+CUST0309,45,Female,Delhi,Sports,High,16,1993,31888,10,36-45,High,Medium Value
+CUST0310,47,Male,Bengaluru,Clothing,Low,3,2341,7023,47,46-60,Low,Low Value
+CUST0311,46,Male,Mumbai,Clothing,Medium,8,1171,9368,123,46-60,Low,Low Value
+CUST0312,23,Male,Bengaluru,Home & Kitchen,Low,3,4898,14694,59,18-25,Medium,Low Value
+CUST0313,52,Male,Bengaluru,Clothing,Medium,4,1330,5320,96,46-60,Low,Low Value
+CUST0314,58,Female,Pune,Electronics,High,18,3617,65106,103,46-60,Very High,High Value
+CUST0315,54,Female,Mumbai,Home & Kitchen,Low,2,2407,4814,124,46-60,Low,Low Value
+CUST0316,41,Male,Chennai,Electronics,High,13,5328,69264,86,36-45,Very High,High Value
+CUST0317,46,Male,Mumbai,Home & Kitchen,Low,2,5292,10584,146,46-60,Medium,Low Value
+CUST0318,48,Female,Hyderabad,Home & Kitchen,High,18,5542,99756,112,46-60,Very High,High Value
+CUST0319,52,Male,Chennai,Electronics,High,12,4147,49764,174,46-60,High,High Value
+CUST0320,50,Male,Hyderabad,Electronics,High,9,8186,73674,160,46-60,Very High,High Value
+CUST0321,38,Male,Delhi,Beauty,Low,1,2450,2450,27,36-45,Low,Low Value
+CUST0322,49,Female,Delhi,Clothing,High,13,2380,30940,18,46-60,High,Medium Value
+CUST0323,40,Female,Mumbai,Electronics,Medium,5,2642,13210,167,36-45,Medium,Low Value
+CUST0324,50,Male,Pune,Sports,Medium,4,3897,15588,177,46-60,Medium,Medium Value
+CUST0325,20,Male,Chennai,Electronics,High,19,5261,99959,82,18-25,Very High,High Value
+CUST0326,35,Female,Pune,Beauty,Low,2,513,1026,172,26-35,Low,Low Value
+CUST0327,42,Female,Bengaluru,Sports,High,20,3860,77200,72,36-45,Very High,High Value
+CUST0328,59,Male,Chennai,Electronics,Low,2,4931,9862,54,46-60,Low,Low Value
+CUST0329,48,Female,Pune,Electronics,Medium,5,8311,41555,162,46-60,High,High Value
+CUST0330,20,Male,Bengaluru,Electronics,Medium,4,7012,28048,71,18-25,Medium,Medium Value
+CUST0331,57,Male,Bengaluru,Clothing,Low,2,913,1826,164,46-60,Low,Low Value
+CUST0332,41,Female,Chennai,Electronics,Low,1,8951,8951,146,36-45,Low,Low Value
+CUST0333,49,Male,Hyderabad,Beauty,Low,3,1473,4419,38,46-60,Low,Low Value
+CUST0334,39,Female,Chennai,Electronics,Medium,6,4217,25302,137,36-45,Medium,Medium Value
+CUST0335,40,Male,Bengaluru,Home & Kitchen,Medium,8,1943,15544,179,36-45,Medium,Medium Value
+CUST0336,19,Male,Chennai,Sports,Medium,6,2784,16704,35,18-25,Medium,Medium Value
+CUST0337,44,Female,Bengaluru,Beauty,Low,1,1616,1616,82,36-45,Low,Low Value
+CUST0338,59,Male,Bengaluru,Home & Kitchen,Low,1,2515,2515,133,46-60,Low,Low Value
+CUST0339,19,Female,Bengaluru,Clothing,Medium,4,1091,4364,142,18-25,Low,Low Value
+CUST0340,43,Male,Chennai,Home & Kitchen,Low,3,2897,8691,158,36-45,Low,Low Value
+CUST0341,34,Male,Hyderabad,Home & Kitchen,High,14,2053,28742,4,26-35,Medium,Medium Value
+CUST0342,57,Male,Delhi,Clothing,High,18,3399,61182,167,46-60,Very High,High Value
+CUST0343,50,Female,Mumbai,Electronics,Medium,8,6371,50968,153,46-60,High,High Value
+CUST0344,26,Male,Pune,Sports,Medium,6,1373,8238,156,26-35,Low,Low Value
+CUST0345,60,Female,Mumbai,Clothing,High,19,2374,45106,150,46-60,High,High Value
+CUST0346,56,Male,Chennai,Electronics,Low,3,4004,12012,159,46-60,Medium,Low Value
+CUST0347,46,Female,Delhi,Clothing,Low,2,1439,2878,23,46-60,Low,Low Value
+CUST0348,59,Male,Mumbai,Clothing,Low,2,2245,4490,48,46-60,Low,Low Value
+CUST0349,43,Female,Delhi,Beauty,High,19,1124,21356,148,36-45,Medium,Medium Value
+CUST0350,52,Female,Mumbai,Beauty,Low,3,1438,4314,125,46-60,Low,Low Value
+CUST0351,42,Female,Chennai,Beauty,Medium,5,1796,8980,166,36-45,Low,Low Value
+CUST0352,41,Female,Delhi,Electronics,High,19,4190,79610,55,36-45,Very High,High Value
+CUST0353,30,Female,Mumbai,Clothing,High,10,3224,32240,68,26-35,High,Medium Value
+CUST0354,24,Female,Pune,Clothing,Medium,7,1573,11011,88,18-25,Medium,Low Value
+CUST0355,53,Male,Mumbai,Electronics,Low,3,8750,26250,1,46-60,Medium,Medium Value
+CUST0356,37,Male,Delhi,Clothing,High,20,3000,60000,135,36-45,High,High Value
+CUST0357,18,Female,Pune,Beauty,Medium,6,1096,6576,95,18-25,Low,Low Value
+CUST0358,25,Female,Hyderabad,Electronics,Low,2,3382,6764,140,18-25,Low,Low Value
+CUST0359,33,Female,Bengaluru,Home & Kitchen,Low,3,2909,8727,106,26-35,Low,Low Value
+CUST0360,31,Male,Pune,Electronics,High,10,5162,51620,133,26-35,High,High Value
+CUST0361,29,Male,Hyderabad,Electronics,Medium,5,8916,44580,108,26-35,High,High Value
+CUST0362,40,Male,Mumbai,Electronics,High,20,4004,80080,178,36-45,Very High,High Value
+CUST0363,32,Female,Bengaluru,Sports,High,11,2563,28193,42,26-35,Medium,Medium Value
+CUST0364,45,Male,Chennai,Beauty,Medium,5,824,4120,102,36-45,Low,Low Value
+CUST0365,51,Male,Hyderabad,Sports,Medium,7,1691,11837,124,46-60,Medium,Low Value
+CUST0366,19,Male,Delhi,Clothing,Medium,7,2963,20741,140,18-25,Medium,Medium Value
+CUST0367,49,Male,Pune,Electronics,Medium,4,6424,25696,103,46-60,Medium,Medium Value
+CUST0368,40,Female,Chennai,Home & Kitchen,Medium,4,4393,17572,146,36-45,Medium,Medium Value
+CUST0369,39,Male,Bengaluru,Clothing,High,17,1109,18853,74,36-45,Medium,Medium Value
+CUST0370,42,Female,Mumbai,Beauty,Medium,8,2140,17120,108,36-45,Medium,Medium Value
+CUST0371,39,Male,Mumbai,Electronics,High,14,6985,97790,122,36-45,Very High,High Value
+CUST0372,39,Male,Chennai,Clothing,Medium,8,1969,15752,17,36-45,Medium,Medium Value
+CUST0373,59,Male,Bengaluru,Electronics,Medium,6,7541,45246,71,46-60,High,High Value
+CUST0374,23,Male,Delhi,Clothing,Medium,7,785,5495,62,18-25,Low,Low Value
+CUST0375,32,Male,Chennai,Beauty,Medium,4,1949,7796,41,26-35,Low,Low Value
+CUST0376,60,Male,Pune,Clothing,Medium,4,2565,10260,119,46-60,Medium,Low Value
+CUST0377,54,Female,Mumbai,Clothing,Low,3,2169,6507,162,46-60,Low,Low Value
+CUST0378,50,Male,Chennai,Clothing,Medium,4,1077,4308,45,46-60,Low,Low Value
+CUST0379,25,Female,Bengaluru,Clothing,Low,2,2380,4760,58,18-25,Low,Low Value
+CUST0380,22,Female,Chennai,Beauty,Medium,8,1111,8888,179,18-25,Low,Low Value
+CUST0381,56,Female,Bengaluru,Sports,Medium,6,3709,22254,126,46-60,Medium,Medium Value
+CUST0382,21,Male,Mumbai,Sports,Medium,4,3575,14300,162,18-25,Medium,Low Value
+CUST0383,23,Male,Chennai,Beauty,High,13,2249,29237,44,18-25,Medium,Medium Value
+CUST0384,49,Male,Bengaluru,Clothing,Medium,4,3013,12052,15,46-60,Medium,Low Value
+CUST0385,47,Male,Mumbai,Home & Kitchen,Medium,6,5718,34308,78,46-60,High,Medium Value
+CUST0386,52,Female,Hyderabad,Clothing,Medium,8,1971,15768,70,46-60,Medium,Medium Value
+CUST0387,57,Male,Hyderabad,Clothing,Medium,6,769,4614,178,46-60,Low,Low Value
+CUST0388,33,Male,Hyderabad,Beauty,Low,2,1945,3890,101,26-35,Low,Low Value
+CUST0389,30,Female,Hyderabad,Electronics,Low,3,6699,20097,160,26-35,Medium,Medium Value
+CUST0390,59,Female,Delhi,Sports,Medium,4,3261,13044,3,46-60,Medium,Low Value
+CUST0391,47,Female,Mumbai,Clothing,Medium,8,2707,21656,86,46-60,Medium,Medium Value
+CUST0392,36,Male,Mumbai,Home & Kitchen,Low,3,3943,11829,74,36-45,Medium,Low Value
+CUST0393,34,Male,Bengaluru,Home & Kitchen,Low,2,2411,4822,51,26-35,Low,Low Value
+CUST0394,36,Male,Pune,Sports,Low,2,1084,2168,67,36-45,Low,Low Value
+CUST0395,45,Male,Hyderabad,Home & Kitchen,High,20,3864,77280,76,36-45,Very High,High Value
+CUST0396,43,Male,Delhi,Home & Kitchen,Medium,8,5129,41032,93,36-45,High,High Value
+CUST0397,54,Male,Delhi,Electronics,Medium,5,8827,44135,176,46-60,High,High Value
+CUST0398,43,Male,Pune,Home & Kitchen,Low,1,2180,2180,145,36-45,Low,Low Value
+CUST0399,40,Male,Bengaluru,Electronics,Medium,4,3551,14204,7,36-45,Medium,Low Value
+CUST0400,26,Male,Hyderabad,Beauty,Low,2,1783,3566,13,26-35,Low,Low Value
+CUST0401,29,Female,Delhi,Home & Kitchen,Low,1,5366,5366,120,26-35,Low,Low Value
+CUST0402,18,Female,Hyderabad,Home & Kitchen,Medium,8,1871,14968,66,18-25,Medium,Low Value
+CUST0403,18,Female,Bengaluru,Electronics,Low,3,6888,20664,4,18-25,Medium,Medium Value
+CUST0404,51,Male,Pune,Electronics,Low,2,6297,12594,138,46-60,Medium,Low Value
+CUST0405,49,Male,Pune,Beauty,Low,1,558,558,88,46-60,Low,Low Value
+CUST0406,42,Male,Delhi,Electronics,Low,1,8820,8820,17,36-45,Low,Low Value
+CUST0407,57,Female,Hyderabad,Electronics,Low,2,6247,12494,52,46-60,Medium,Low Value
+CUST0408,18,Female,Pune,Electronics,Medium,7,4605,32235,134,18-25,High,Medium Value
+CUST0409,33,Male,Hyderabad,Sports,High,16,4296,68736,69,26-35,Very High,High Value
+CUST0410,56,Female,Bengaluru,Beauty,Medium,8,1628,13024,137,46-60,Medium,Low Value
+CUST0411,22,Male,Hyderabad,Clothing,Medium,5,2804,14020,21,18-25,Medium,Low Value
+CUST0412,39,Male,Hyderabad,Clothing,Low,1,879,879,24,36-45,Low,Low Value
+CUST0413,46,Female,Delhi,Clothing,High,15,931,13965,4,46-60,Medium,Low Value
+CUST0414,20,Female,Chennai,Beauty,Medium,4,2105,8420,152,18-25,Low,Low Value
+CUST0415,29,Female,Pune,Home & Kitchen,Low,1,1825,1825,3,26-35,Low,Low Value
+CUST0416,43,Female,Pune,Electronics,Medium,6,5247,31482,68,36-45,High,Medium Value
+CUST0417,33,Male,Delhi,Electronics,Low,1,4017,4017,101,26-35,Low,Low Value
+CUST0418,54,Female,Bengaluru,Electronics,Medium,7,8726,61082,168,46-60,Very High,High Value
+CUST0419,39,Male,Pune,Home & Kitchen,Medium,6,3485,20910,176,36-45,Medium,Medium Value
+CUST0420,46,Female,Chennai,Beauty,High,9,1373,12357,54,46-60,Medium,Low Value
+CUST0421,31,Male,Bengaluru,Clothing,Medium,5,988,4940,35,26-35,Low,Low Value
+CUST0422,45,Female,Pune,Electronics,Medium,5,8369,41845,56,36-45,High,High Value
+CUST0423,22,Male,Chennai,Electronics,High,19,8315,157985,108,18-25,Very High,High Value
+CUST0424,47,Female,Delhi,Sports,Low,2,2073,4146,40,46-60,Low,Low Value
+CUST0425,22,Male,Hyderabad,Clothing,Low,1,3434,3434,68,18-25,Low,Low Value
+CUST0426,29,Female,Mumbai,Beauty,Medium,7,1541,10787,46,26-35,Medium,Low Value
+CUST0427,33,Male,Bengaluru,Home & Kitchen,Medium,5,5103,25515,78,26-35,Medium,Medium Value
+CUST0428,43,Male,Mumbai,Clothing,Medium,5,1134,5670,141,36-45,Low,Low Value
+CUST0429,43,Male,Chennai,Electronics,High,11,5363,58993,155,36-45,High,High Value
+CUST0430,38,Male,Bengaluru,Electronics,Medium,6,5156,30936,6,36-45,High,Medium Value
+CUST0431,56,Female,Mumbai,Home & Kitchen,Medium,8,5466,43728,17,46-60,High,High Value
+CUST0432,53,Male,Mumbai,Beauty,Medium,7,794,5558,164,46-60,Low,Low Value
+CUST0433,50,Female,Delhi,Home & Kitchen,High,11,1628,17908,99,46-60,Medium,Medium Value
+CUST0434,47,Male,Pune,Home & Kitchen,High,12,5496,65952,81,46-60,Very High,High Value
+CUST0435,54,Male,Mumbai,Electronics,High,19,6063,115197,2,46-60,Very High,High Value
+CUST0436,40,Female,Mumbai,Sports,Low,3,3159,9477,77,36-45,Low,Low Value
+CUST0437,27,Female,Chennai,Beauty,Medium,6,1157,6942,180,26-35,Low,Low Value
+CUST0438,22,Male,Delhi,Clothing,Low,2,1135,2270,66,18-25,Low,Low Value
+CUST0439,53,Female,Mumbai,Sports,Low,2,3390,6780,52,46-60,Low,Low Value
+CUST0440,51,Female,Delhi,Home & Kitchen,Low,1,4256,4256,92,46-60,Low,Low Value
+CUST0441,48,Male,Bengaluru,Home & Kitchen,Medium,8,3144,25152,171,46-60,Medium,Medium Value
+CUST0442,27,Female,Bengaluru,Beauty,Medium,5,1261,6305,22,26-35,Low,Low Value
+CUST0443,36,Female,Delhi,Beauty,Low,2,1365,2730,111,36-45,Low,Low Value
+CUST0444,49,Female,Delhi,Home & Kitchen,Medium,6,1742,10452,107,46-60,Medium,Low Value
+CUST0445,18,Male,Pune,Electronics,Medium,5,8198,40990,67,18-25,High,High Value
+CUST0446,22,Female,Mumbai,Clothing,Medium,4,2957,11828,140,18-25,Medium,Low Value
+CUST0447,21,Male,Hyderabad,Sports,Low,2,2560,5120,69,18-25,Low,Low Value
+CUST0448,33,Male,Hyderabad,Electronics,Medium,4,5549,22196,84,26-35,Medium,Medium Value
+CUST0449,41,Male,Bengaluru,Clothing,High,12,1653,19836,103,36-45,Medium,Medium Value
+CUST0450,33,Male,Hyderabad,Clothing,Low,3,2002,6006,39,26-35,Low,Low Value
+CUST0451,19,Female,Bengaluru,Clothing,Low,3,1974,5922,13,18-25,Low,Low Value
+CUST0452,45,Female,Pune,Home & Kitchen,Medium,7,3472,24304,41,36-45,Medium,Medium Value
+CUST0453,49,Female,Bengaluru,Sports,High,11,3296,36256,57,46-60,High,Medium Value
+CUST0454,44,Male,Delhi,Electronics,Medium,8,3528,28224,12,36-45,Medium,Medium Value
+CUST0455,37,Male,Bengaluru,Electronics,Medium,7,7814,54698,13,36-45,High,High Value
+CUST0456,41,Male,Pune,Electronics,Medium,4,4477,17908,120,36-45,Medium,Medium Value
+CUST0457,29,Female,Delhi,Sports,Medium,6,2964,17784,97,26-35,Medium,Medium Value
+CUST0458,52,Male,Hyderabad,Home & Kitchen,Low,2,2357,4714,57,46-60,Low,Low Value
+CUST0459,50,Female,Bengaluru,Clothing,Medium,4,2253,9012,40,46-60,Low,Low Value
+CUST0460,50,Female,Chennai,Beauty,High,12,551,6612,118,46-60,Low,Low Value
+CUST0461,60,Male,Bengaluru,Sports,Medium,8,2191,17528,80,46-60,Medium,Medium Value
+CUST0462,54,Female,Pune,Beauty,High,19,862,16378,128,46-60,Medium,Medium Value
+CUST0463,29,Male,Bengaluru,Sports,Medium,6,2526,15156,173,26-35,Medium,Medium Value
+CUST0464,20,Female,Bengaluru,Clothing,Low,1,2062,2062,35,18-25,Low,Low Value
+CUST0465,18,Female,Bengaluru,Beauty,High,19,973,18487,3,18-25,Medium,Medium Value
+CUST0466,50,Male,Delhi,Clothing,Low,3,1982,5946,120,46-60,Low,Low Value
+CUST0467,57,Male,Delhi,Beauty,Medium,5,1020,5100,5,46-60,Low,Low Value
+CUST0468,27,Female,Bengaluru,Beauty,Low,1,2286,2286,11,26-35,Low,Low Value
+CUST0469,60,Female,Chennai,Beauty,Low,2,1954,3908,126,46-60,Low,Low Value
+CUST0470,46,Male,Delhi,Home & Kitchen,Medium,7,4213,29491,71,46-60,Medium,Medium Value
+CUST0471,30,Female,Delhi,Electronics,Low,3,4211,12633,117,26-35,Medium,Low Value
+CUST0472,29,Female,Delhi,Home & Kitchen,Medium,4,4157,16628,138,26-35,Medium,Medium Value
+CUST0473,48,Female,Delhi,Sports,Medium,8,2772,22176,106,46-60,Medium,Medium Value
+CUST0474,19,Male,Delhi,Sports,Low,2,2058,4116,116,18-25,Low,Low Value
+CUST0475,52,Female,Bengaluru,Electronics,Low,1,6172,6172,162,46-60,Low,Low Value
+CUST0476,40,Female,Bengaluru,Electronics,Medium,4,4101,16404,67,36-45,Medium,Medium Value
+CUST0477,34,Male,Chennai,Electronics,Medium,7,7265,50855,31,26-35,High,High Value
+CUST0478,43,Male,Pune,Beauty,Medium,6,1934,11604,75,36-45,Medium,Low Value
+CUST0479,25,Female,Mumbai,Beauty,Medium,4,2457,9828,71,18-25,Low,Low Value
+CUST0480,46,Male,Mumbai,Electronics,High,20,7580,151600,66,46-60,Very High,High Value
+CUST0481,43,Female,Hyderabad,Home & Kitchen,Medium,7,5457,38199,70,36-45,High,Medium Value
+CUST0482,27,Male,Delhi,Beauty,Medium,4,2217,8868,41,26-35,Low,Low Value
+CUST0483,43,Male,Bengaluru,Beauty,Medium,8,740,5920,160,36-45,Low,Low Value
+CUST0484,51,Female,Bengaluru,Home & Kitchen,Low,1,1762,1762,20,46-60,Low,Low Value
+CUST0485,58,Male,Hyderabad,Home & Kitchen,Medium,4,5862,23448,178,46-60,Medium,Medium Value
+CUST0486,24,Male,Hyderabad,Home & Kitchen,High,12,4888,58656,153,18-25,High,High Value
+CUST0487,21,Male,Bengaluru,Clothing,Medium,5,3291,16455,140,18-25,Medium,Medium Value
+CUST0488,28,Female,Mumbai,Home & Kitchen,High,17,3444,58548,39,26-35,High,High Value
+CUST0489,46,Male,Mumbai,Home & Kitchen,High,19,3393,64467,145,46-60,Very High,High Value
+CUST0490,53,Male,Hyderabad,Sports,High,19,4096,77824,45,46-60,Very High,High Value
+CUST0491,42,Female,Bengaluru,Home & Kitchen,High,10,3152,31520,139,36-45,High,Medium Value
+CUST0492,38,Male,Bengaluru,Beauty,Medium,6,2220,13320,70,36-45,Medium,Low Value
+CUST0493,53,Female,Chennai,Electronics,Medium,8,5425,43400,125,46-60,High,High Value
+CUST0494,27,Male,Bengaluru,Clothing,Medium,4,1354,5416,151,26-35,Low,Low Value
+CUST0495,54,Female,Hyderabad,Electronics,Medium,7,3474,24318,91,46-60,Medium,Medium Value
+CUST0496,26,Male,Mumbai,Electronics,Medium,7,3825,26775,70,26-35,Medium,Medium Value
+CUST0497,41,Female,Bengaluru,Beauty,Medium,8,785,6280,166,36-45,Low,Low Value
+CUST0498,52,Male,Mumbai,Sports,Medium,6,3977,23862,130,46-60,Medium,Medium Value
+CUST0499,52,Male,Hyderabad,Electronics,Medium,4,5437,21748,84,46-60,Medium,Medium Value
+CUST0500,53,Male,Chennai,Clothing,Low,3,1115,3345,89,46-60,Low,Low Value
